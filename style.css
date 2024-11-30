@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(255, 213, 115);
+}
+#about {
+  background-color: rgb(105, 58, 4);
+}
+#projects {
+  background-color: rgb(255, 213, 115);
+}
+#contact {
+  background-color: rgb(105, 58, 4);
+}
+.card:hover {
+  scale: 1.1;
+}
